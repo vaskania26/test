@@ -1,3 +1,4 @@
-console.log("hello world!!!");
-
-console.log("asdsadsa");
+// eslint-disable-next-line no-console
+console.log('hello world!!!');
+// eslint-disable-next-line no-console
+console.log('asdsadsa');
